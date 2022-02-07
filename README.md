@@ -7,7 +7,7 @@
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Questions](#questions)
+  * [Contact](#contact)
 
 ## Installation
 follow the prompts
@@ -20,9 +20,9 @@ license
   
 ## Contributing
 nil
-## Testing
+## Tests
 Nil
-## Contact Information
+## Contact 
 GitHub: [drmoe77](https://www.github.com/drmoe77) <br>
 Email: [drmo.afifi@gmail.com]
 
