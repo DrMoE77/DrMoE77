@@ -1,28 +1,15 @@
 
   ## Hello I am Mohamed Afifi
-  undefined
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Contact](#contact)
+  I am a Pharmacist, I am also training to be a lawyer. I have completed five University degrees and I am currently completing my PhD. I am completing my full-stack development course and will be moving on to a data sceince course. I wanted to learn code so I can appply my knowledge and ideas in the areas of Medicine and Pharmacy, innovative sceince and technology and even in the Law.
 
-## Installation
-follow the prompts
-## Usage
-Readme files
-## License
-license 
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    (https://opensource.org/licenses/MIT)
-  
-## Contributing
-nil
-## Tests
-Nil
-## Contact 
-GitHub: [drmoe77](https://www.github.com/drmoe77) <br>
-Email: [drmo.afifi@gmail.com]
+In my PhD I am conducting a research that involves both the Univeristy of Technology Sydney (UTS) and Arizona State University (ASU). This research requires deploying survyes and collecting data from both Australia and the United States of America.
+
+## My Skills
+Langauges: Front end dev (HTML, CSS, Bootsrap, JQuery, JavaScript), node.js, react. Db: MySql,  MongoDB.
+
+## My Links
+My Portfolio: https://drmoe77.github.io/Mohamed-Afifi-Portfolio/ <br>
+Email: [drmo.afifi@gmail.com]<br>
+Linkedin: www.linkedin.com/in/mohamed-afifi-0938341a
+
 
